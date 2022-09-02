@@ -33,7 +33,7 @@ function Navbar({ appName }) {
 }
 
 Navbar.defaultProps = {
-  appName: 'Github Profile View',
+  appName: 'Github Profile Viewer',
 };
 
 export default Navbar;
